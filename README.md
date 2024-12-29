@@ -124,7 +124,7 @@ Hand Position
 
 ![2 (Hand Position)](https://github.com/user-attachments/assets/650fb893-60e9-49fb-8085-f2f36b79f20d)
 
-Finguresorks
+FingersWorks
 
-   ![3  w(Finguresorks)](https://github.com/user-attachments/assets/90d3942d-f12c-488a-9278-ce3849c05b22)
+   ![3  w(FingersWorks)](https://github.com/user-attachments/assets/90d3942d-f12c-488a-9278-ce3849c05b22)
    
