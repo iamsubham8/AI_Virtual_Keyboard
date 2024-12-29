@@ -1,5 +1,4 @@
-
-                                                                          <!-- AI Virtual Keyboard : -->
+                                                                      <!-- AI Virtual Keyboard : -->
 
 # AI_Virtual_Keyboard
  
@@ -114,10 +113,18 @@ I have made some some changes in the HandTrackingModule which I have posted belo
 
 
 
-              
+Output:
 
-   ![3 (Fingures works)](https://github.com/user-attachments/assets/90d3942d-f12c-488a-9278-ce3849c05b22)
-   
-![2 (Hand Position)](https://github.com/user-attachments/assets/650fb893-60e9-49fb-8085-f2f36b79f20d)
+
+Interface
+
 ![1 (Interface)](https://github.com/user-attachments/assets/46aa65a3-1bf1-4070-90ef-99845130da7f)
-         
+
+Hand Position
+
+![2 (Hand Position)](https://github.com/user-attachments/assets/650fb893-60e9-49fb-8085-f2f36b79f20d)
+
+Finguresorks
+
+   ![3  w(Finguresorks)](https://github.com/user-attachments/assets/90d3942d-f12c-488a-9278-ce3849c05b22)
+   
